@@ -6,6 +6,9 @@
     <title>Latih lagi</title>
 </head>
 <body>
+    <?php
+     $i = 100;
+    ?>
     <h1>Hello bro</h1>
  <script>
     console.log("Hello from index.php");
