@@ -7,5 +7,11 @@
 </head>
 <body>
     <h1>Hello bro</h1>
+ <script>
+    console.log("Hello from index.php");
+    document.addEventListener("DOMContentLoaded", function() {
+        console.log("DOM fully loaded and parsed");
+    });
+</script>
 </body>
 </html>
